@@ -1,0 +1,14 @@
+.my-class div {
+    background-color: pink;
+    border: 1px solid green;
+}
+.accordion {
+    margin-top: 30px;
+    /* background-color:lightseagreen; */
+}
+.accordion-item {
+    background-color:rgb(117, 235, 229);
+}
+.padd {
+    margin-top: 30px;
+}
